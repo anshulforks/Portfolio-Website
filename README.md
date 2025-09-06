@@ -1,4 +1,4 @@
-# 🚀 Priyank Aggarwal - Portfolio Website
+# 🚀 Anshul Yadav - Portfolio Website
 
 A modern, responsive portfolio website showcasing my skills as a Software Developer and Visual Designer. Built with pure HTML, CSS, and JavaScript, featuring dark/light theme switching, interactive animations, and a fully functional contact form with EmailJS integration.
 
@@ -90,13 +90,8 @@ Abhishek-Portfolio/
 ## 🚀 **Getting Started**
 
 ### **Quick Start**
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Priyank7052/Priyank7052-Portfolio.git
-   cd Priyank7052-Portfolio
-   ```
 
-2. **Open in browser**
+1. **Open in browser**
    ```bash
    # Simply open index.html in your preferred browser
    open index.html
@@ -104,7 +99,7 @@ Abhishek-Portfolio/
    start index.html
    ```
 
-3. **View the portfolio**
+2. **View the portfolio**
    - Navigate through different sections
    - Test the theme switcher
    - Try the responsive design on different screen sizes
@@ -176,6 +171,4 @@ While this is a personal portfolio, I welcome:
 
 ---
 
-**Made with ❤️ by Priyank Aggarwal **
-
-*Building digital products, brands, and experiences.*
+**Made with ❤️ by Anshul Yadav **
